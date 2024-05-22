@@ -1,0 +1,36 @@
+.footer{
+    width: 100%;
+    height: 40vh;
+    margin-top: 200px;
+    margin-bottom: 0;
+    background-color: rgb(37, 41, 45);
+    color: white;
+    font-size: 20px;
+}
+.allSide{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.side1{
+    width: 30%;
+}
+.side2{
+    width: 30%;
+}
+.side3{
+    width: 30%;
+}
+.side1 img{
+    width: 100px;
+    margin-top: 20px;
+}
+.side2 h2{
+    margin-top: 20px;
+}
+.side3 h2{
+    margin-top: 20px;
+}
+li{
+    margin-top: 20px;
+}

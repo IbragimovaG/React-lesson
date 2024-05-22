@@ -1,0 +1,21 @@
+.card-block {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 30%;
+    padding: 30px;
+    background-color: rgba(173, 216, 230, 0.235);
+    border-radius: 15px;
+    text-align: center;
+}
+
+.card h4 {
+    font-size: 30px;
+    margin-top: 15px;
+}

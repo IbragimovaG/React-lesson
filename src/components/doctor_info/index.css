@@ -1,0 +1,47 @@
+.doctor_page {
+    width: 80%;
+    margin: auto;
+}
+
+.block {
+    display: flex;
+    margin: 50px;
+    align-items: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.statics {
+    width: 100%;
+    display: flex;
+}
+
+.statics .static{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;;
+    align-items: center;
+}
+.blue{
+    background-color:#009EE7;
+}
+.static h1{
+    color:  #009EE7;
+    margin-top:50px;
+
+}
+.static h2{
+    color: #009EE7;
+}
+.blue h1{
+    color: white;
+}
+.blue h2{
+    color: white;
+}
